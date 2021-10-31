@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: default
 title: "mizu-abura"
 date: 2021-10-31
 ---
