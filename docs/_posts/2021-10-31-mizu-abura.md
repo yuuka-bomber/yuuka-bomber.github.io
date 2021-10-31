@@ -12,3 +12,9 @@ date: 2021-10-31
 <img src="/assets/images/IMG_1473.jpg">
 
 ![111](/assets/images/IMG_1473.jpg)
+
+
+
+<img src="https://yuuka-bomber.github.io/assets/images/IMG_1473.jpg">
+
+![111](https://yuuka-bomber.github.io/assets/images/IMG_1473.jpg)
