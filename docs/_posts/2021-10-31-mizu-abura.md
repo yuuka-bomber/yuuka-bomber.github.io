@@ -9,6 +9,6 @@ date: 2021-10-31
 水と油で実験してみましt
 
 
-<img src="/yuuka-bomber.github.io/assets/images/IMG_1473.jpg">
+<img src="/assets/images/IMG_1473.jpg">
 
-![111](/yuuka-bomber.github.io/assets/images/IMG_1473.jpg)
+![111](/assets/images/IMG_1473.jpg)
